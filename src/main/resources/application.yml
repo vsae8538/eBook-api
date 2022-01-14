@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ebook-api
+  profiles:
+    #active: prod
+    active: dev
